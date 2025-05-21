@@ -1,4 +1,4 @@
-## Hope you enjoy this program <3
+## Hope u enjoy!
 
 # 📌 How To Use:
 - Download python 3.10 up (if any issues download 3.11.0)
