@@ -6,3 +6,6 @@
 - Download the latest version from releases 
 - Open the extract the folder and put your obfuscated script into the same folder and run main.py with python and enter the name of your script
 - enjoy!
+
+# 📝 Notes:
+This program is completely open source and u can skid all u want <3
